@@ -1,3 +1,3 @@
 # goit-markup-hw-03
 
-My third homework. "WebStudio" webpage.
+My third homework. "WebStudio" website.
