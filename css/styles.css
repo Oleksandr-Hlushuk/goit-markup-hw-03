@@ -79,10 +79,15 @@ img {
 
 .page-navigation {
   align-items: center;
+  gap: 40px;
 }
 
 .nav-container {
   justify-content: space-between;
+}
+
+.nav-list {
+  gap: 40px;
 }
 
 .logo-link {
@@ -95,10 +100,6 @@ img {
   color: var(--iris);
   padding: 24px 0;
   margin-right: 76px;
-}
-
-.nav-list:not(:last-child) {
-  gap: 40px;
 }
 
 .half-logo-text {
@@ -126,10 +127,13 @@ img {
   font-style: normal;
 }
 
+.address-list {
+  gap: 40px;
+}
+
 .address-list-item {
   padding-top: 24px;
   padding-bottom: 24px;
-  margin-right: 40px;
 }
 
 .address-link {
